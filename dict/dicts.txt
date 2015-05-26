@@ -1,0 +1,1 @@
+I use Polish dictionary (Polski.dic file) from Hunspell (http://hunspell.sourceforge.net/)
